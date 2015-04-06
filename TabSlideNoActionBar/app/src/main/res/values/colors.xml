@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="joy_red">#dd3c39</color>
+    <color name="joy_red_dark">#ac201e</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="grey_400">#BDBDBD</color>
+    <color name="joy_red_light">#f5a2a3</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- AppCompat theme Colors -->
+    <color name="colorPrimary">@color/joy_red</color>
+    <color name="colorPrimaryDark">@color/joy_red_dark</color>
+    <color name="colorAccent">@color/white</color>
+    <color name="colorWindowBackground">@color/white</color>
+
+</resources>
