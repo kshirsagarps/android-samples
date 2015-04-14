@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelpOverlay</string>
+    <string name="tooltip_text">Simple ToolTip Example.</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_button_text">"Click for ToolTip"</string>
+    <string name="overlay_title">"New Feature!"</string>
+    <string name="overlay_message">"This Tooltip Overlay provides a good customer experience, so keep pressing the above button."</string>
+
+</resources>
