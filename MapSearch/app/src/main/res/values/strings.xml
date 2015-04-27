@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MapSearch</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Enter search query, ex: restaurants</string>
+    <string name="open_now">Open Now</string>
+    <string name="vicinity">Near</string>
+    <string name="location_type">Type</string>
+
+    <!-- Messages -->
+    <string name="no_json_data">Sorry, no result for the query.</string>
+    <string name="info_message">Please, search for locations.</string>
+    <string name="progress_msg">Searching ...</string>
+
+    <!-- Main Activity Text Message -->
+    <string-array name="response_status_array">
+        <item>Search results obtained successfully.</item>
+        <item>Search results did not return any results.</item>
+        <item>Search quota limit exceeded.</item>
+        <item>Your search request was denied.</item>
+        <item>Invalid search request, please try again.</item>
+    </string-array>
+
+    <!-- Opening-hours Yes/No -->
+    <string name="open_yes">Yes</string>
+    <string name="open_no">No</string>
+
+</resources>
